@@ -1,6 +1,9 @@
 # UAS_311710181_Kristoforus.L.Nong-Hugo
 Tugas_UAS_Pemrograman_Mobile
 
+[![Watch the video](https://youtu.be/Ias64_8ePL8)
+
+
 ![Screenshot_2020-07-16-14-41-31-534_com example hospital_uas](https://user-images.githubusercontent.com/37465900/87649132-42ddef80-c77a-11ea-8300-b72bf55e6463.jpg)
 ![Screenshot_2020-07-16-14-41-38-505_com example hospital_uas](https://user-images.githubusercontent.com/37465900/87649150-44a7b300-c77a-11ea-8579-4ca144893f78.jpg)
 ![Screenshot_2020-07-16-14-41-45-622_com example hospital_uas](https://user-images.githubusercontent.com/37465900/87649159-45404980-c77a-11ea-8532-09a1d166441e.jpg)
